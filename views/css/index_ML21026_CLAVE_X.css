@@ -1,0 +1,12 @@
+body {
+    background-image: url("../IMG/Hospital.jpg");
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-color: blue;
+}
+
+
+h1{
+    color: brown;
+}
